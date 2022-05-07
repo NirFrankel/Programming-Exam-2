@@ -1,2 +1,1 @@
-# Programming-Exam-2
-Advanced Object Oriented Programming
+# Programming-Exam-2 - Advanced Object Oriented Programming
